@@ -42,3 +42,5 @@ Demonstrates:
   ```bash
   python3 live_summary_from_file_to_chart.py
   ```
+  
+![Basic Live Test Results Chart](chart.png)
