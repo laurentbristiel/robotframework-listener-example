@@ -1,4 +1,4 @@
-# Listener implemented as a module using the listener API version 3.
+# Listener implemented using the listener API version 3.
 
 LOG_FILE = "listener_output.log"
 
